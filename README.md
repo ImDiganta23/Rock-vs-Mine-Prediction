@@ -152,4 +152,3 @@ Aspiring Machine Learning & AI Engineer
 
 ---
 
-Just tell me 👌
